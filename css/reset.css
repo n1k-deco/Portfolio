@@ -10,14 +10,6 @@
 	box-sizing: border-box;
 }
 
-:focus,
-:active {
-}
-
-a:focus,
-a:active {
-}
-
 a, a:link, a:visited  {
     text-decoration: none;
 }
